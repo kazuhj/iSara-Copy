@@ -1,3 +1,7 @@
+.wrap {
+  overflow: hidden;
+}
+
 body {
   color: #333;
   font-size: 14px;
@@ -1657,6 +1661,7 @@ header .title .headercontact .contactpc p {
     color: #fff;
     padding: 30px;
     margin: 0 15px;
+    display: none;
   }
 }
 
